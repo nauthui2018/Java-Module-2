@@ -11,6 +11,7 @@ public class BodyMassIndex {
         bmi = weight/Math.pow(height, 2);
         if (bmi < 18.5) {
             System.out.println("The IBM: " + bmi + " ==> " + "Result: Underweight");
+            System.out.printf("%-20.2f%s", bmi, "Underweight");
         } else if (bmi < 25) {
             System.out.println("The IBM: " + bmi + " ==> " + "Result: Normal");
         } else if (bmi < 30) {
