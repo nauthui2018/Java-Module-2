@@ -66,7 +66,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.First20PrimeNumber">
+  <component name="RunManager" selected="Application.PrimeNumberUnder100">
     <configuration name="DesignMenuApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignMenuApp" />
       <module name="Loop in Java" />
@@ -76,6 +76,13 @@
     </configuration>
     <configuration name="First20PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First20PrimeNumber" />
+      <module name="Loop in Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumberUnder100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumberUnder100" />
       <module name="Loop in Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumberUnder100" />
         <item itemvalue="Application.First20PrimeNumber" />
         <item itemvalue="Application.ShowPolygon" />
         <item itemvalue="Application.DesignMenuApp" />
