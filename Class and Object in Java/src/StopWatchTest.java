@@ -1,4 +1,5 @@
 import java.text.SimpleDateFormat;
+import java.util.Arrays;
 
 public class StopWatchTest {
     public static void main(String[] args) {
@@ -10,8 +11,8 @@ public class StopWatchTest {
         for (i=0; i< array.length; i++) {
             array[i] = (int) (Math.random()*100000);
         }
-        for (i=0; i<array.length; i++) {
-            for (j=1; j<array.length; j++) {
+        for (i=0; i<array.length-1; i++) {
+            for (j=i+1; j<array.length; j++) {
                 if (array[i]>array[j]) {
                     array[i] = array[i] - array[j];
                     array[j] = array[j] + array[i];
@@ -24,5 +25,6 @@ public class StopWatchTest {
         System.out.println("Start: " + formatter.format(start));
         System.out.println("End: " + formatter.format(end));
         System.out.println("Elapsed time: " + formatter.format(time));
+        System.out.println(Arrays.toString(array));
     }
 }
