@@ -1,5 +1,6 @@
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
+import java.util.Date;
 
 public class StopWatchTest {
     public static void main(String[] args) {
@@ -24,7 +25,7 @@ public class StopWatchTest {
         long time = stopWatch.getElapsedTime();
         System.out.println("Start: " + formatter.format(start));
         System.out.println("End: " + formatter.format(end));
-        System.out.println("Elapsed time: " + formatter.format(time));
+        System.out.println("Elapsed time: " + formatter.format(new Date(time)));
         System.out.println(Arrays.toString(array));
     }
 }
