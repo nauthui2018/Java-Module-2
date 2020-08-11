@@ -9,5 +9,9 @@ public class TestStaticMethod {
         student1.display();
         student2.display();
         student3.display();
+        Students student4 = new Students();
+        System.out.println(student4.change());
+
+        System.out.println(student4.college);
     }
 }
