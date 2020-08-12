@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70eb588d-0335-40d9-a444-53c0e284dec5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Array and Method in Java/out/production/Array and Method in Java/CountRepeatingTimeOfLetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and Method in Java/out/production/Array and Method in Java/CountRepeatingTimeOfLetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array and Method in Java/src/CountRepeatingTimeOfLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Array and Method in Java/src/CountRepeatingTimeOfLetter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.PrimeNumberUnder100" />
@@ -127,7 +116,7 @@
       <updated>1596696631814</updated>
       <workItem from="1596696633342" duration="2000" />
       <workItem from="1596702512637" duration="177000" />
-      <workItem from="1596702899677" duration="10807000" />
+      <workItem from="1596702899677" duration="11091000" />
     </task>
     <servers />
   </component>
@@ -147,38 +136,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1596768892746">
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom" timestamp="1596769256752">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596768892746" />
-    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1596768892745">
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596769256752" />
+    <state width="1358" height="270" key="GridCell.Tab.0.center" timestamp="1596769256751">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596768892745" />
-    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1596768892744">
+    <state width="1358" height="270" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596769256751" />
+    <state width="1358" height="270" key="GridCell.Tab.0.left" timestamp="1596769256749">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596768892744" />
-    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1596768892745">
+    <state width="1358" height="270" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596769256749" />
+    <state width="1358" height="270" key="GridCell.Tab.0.right" timestamp="1596769256751">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596768892745" />
-    <state width="1358" height="217" key="GridCell.Tab.1.bottom" timestamp="1596768641488">
+    <state width="1358" height="270" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596769256751" />
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom" timestamp="1596769256754">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596768641488" />
-    <state width="1358" height="217" key="GridCell.Tab.1.center" timestamp="1596768641486">
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596769256754" />
+    <state width="1358" height="270" key="GridCell.Tab.1.center" timestamp="1596769256753">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1596768641486" />
-    <state width="1358" height="217" key="GridCell.Tab.1.left" timestamp="1596768641486">
+    <state width="1358" height="270" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1596769256753" />
+    <state width="1358" height="270" key="GridCell.Tab.1.left" timestamp="1596769256752">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1596768641486" />
-    <state width="1358" height="217" key="GridCell.Tab.1.right" timestamp="1596768641487">
+    <state width="1358" height="270" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1596769256752" />
+    <state width="1358" height="270" key="GridCell.Tab.1.right" timestamp="1596769256753">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1596768641487" />
+    <state width="1358" height="270" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1596769256753" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
