@@ -1,10 +1,11 @@
 package geometric;
 
-public class Circle {
+public class Circle{
     private double radius = 1;
     private String color = "blue";
 
     public Circle() {
+
     }
 
     public Circle(double radius) {
