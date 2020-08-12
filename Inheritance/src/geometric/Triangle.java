@@ -62,6 +62,7 @@ public class Triangle extends Shape{
     @Override
     public String toString() {
         return "Triangle: " + Arrays.toString(this.getSides()) + "\n" +
+                "Color: " + super.getColor() + "\n" +
                 "Perimeter: " + this.getPerimeter() + "\n" +
                 "Area: " + this.getArea();
     }
