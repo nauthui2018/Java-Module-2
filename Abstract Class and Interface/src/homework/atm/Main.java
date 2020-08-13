@@ -4,25 +4,22 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        ATM atm = new ATM();
         User user = new User("Nguyen Van A", 1200000);
+        ATM atm = new ATM("ACB", user);
         Scanner scanner = new Scanner(System.in);
-        String luaChon;
+        String luaChon = "O";
         int soLanNhap = 0;
         System.out.println("Ngan hang ABC kinh chao Quy khach " + user.getUserName());
-        System.out.println("Menu: \n" +
-                "Nhan phim A de kiem tra tai khoan \n" +
-                "Nhan phim D de nap tien \n" +
-                "Nhan phim W de rut tien \n" +
-                "Nhan phim H de xem lich su 3 lan rut tien \n" +
-                "Nhan phim X de thoat \n" +
-                "=========================================== \n" +
-                "Nhap lua chon cua ban: ");
-        luaChon = scanner.nextLine();
-        if (luaChon.equals("X")) {
-            atm.exit();
-        }
-        while (!luaChon.equals("X")) {
+        while (soLanNhap < 3) {
+            System.out.println("Menu: \n" +
+                    "Nhan phim A de kiem tra tai khoan \n" +
+                    "Nhan phim D de nap tien \n" +
+                    "Nhan phim W de rut tien \n" +
+                    "Nhan phim H de xem lich su 3 lan rut tien \n" +
+                    "Nhan phim X de thoat \n" +
+                    "=========================================== \n" +
+                    "Nhap lua chon cua ban: ");
+            luaChon = scanner.next();
             switch (luaChon) {
                 case "A":
                     atm.kiemTraTK();
@@ -45,18 +42,6 @@ public class Main {
                             "Bam nut theo menu de tiep tuc giao dich \n" +
                             "===========================================");
             }
-            if (soLanNhap > 2) {
-                break;
-            }
-            System.out.println("Menu: \n" +
-                    "Nhan phim A de kiem tra tai khoan \n" +
-                    "Nhan phim D de nap tien \n" +
-                    "Nhan phim W de rut tien \n" +
-                    "Nhan phim H de xem lich su 3 lan rut tien \n" +
-                    "Nhan phim X de thoat \n" +
-                    "=========================================== \n" +
-                    "Nhap lua chon cua ban: ");
-            luaChon = scanner.nextLine();
         }
         if (soLanNhap > 2) {
             System.out.println("Ban da nhap sai 3 lan");
