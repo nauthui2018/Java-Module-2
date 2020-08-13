@@ -1,3 +1,5 @@
+package geometrics;
+
 public class Shape {
     private String color = "green";
     private boolean filled = true;
@@ -14,12 +16,12 @@ public class Shape {
         return color;
     }
 
-    public void setColor(String color) {
-        this.color = color;
-    }
-
     public boolean isFilled() {
         return filled;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
     }
 
     public void setFilled(boolean filled) {
@@ -28,9 +30,7 @@ public class Shape {
 
     @Override
     public String toString() {
-        return "A Shape with color of "
-                + getColor()
-                + " and "
-                + (isFilled() ? "filled" : "not filled");
+        return "A shape with color of " + color +
+                " and " + (isFilled() ? "filled" : "not filled");
     }
 }
