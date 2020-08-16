@@ -4,7 +4,7 @@ public class Tiger extends Animal {
 
     @Override
     public String makeSound() {
-        return "Grum grummm";
+        return "Tiger: roarrrrr!";
     }
 
 }
