@@ -1,10 +1,19 @@
 package geometrics;
 
 public class Rectangle extends Shape {
+    private String name = "Rectangle";
     private double width = 1;
     private double length = 1;
 
     public Rectangle() {
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public Rectangle(String color, boolean filled) {
@@ -32,6 +41,7 @@ public class Rectangle extends Shape {
         this.length = length;
     }
 
+    @Override
     public double getArea() {
         return this.getLength()*this.getWidth();
     }

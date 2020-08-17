@@ -2,8 +2,15 @@ package geometrics;
 
 public class Circle extends Shape {
     private double radius = 1;
+    private String name = "Circle";
 
     public Circle() {
+    }
+
+    public String getName() { return name; }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public Circle(double radius) {
@@ -25,6 +32,7 @@ public class Circle extends Shape {
         this.radius = radius;
     }
 
+    @Override
     public double getArea() {
         return Math.PI*Math.pow(this.getRadius(), 2);
     }

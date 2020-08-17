@@ -1,8 +1,21 @@
 package geometrics;
 
-public class Square extends Rectangle {
+import colorable.Colorable;
+
+public class Square extends Rectangle implements Colorable<Square> {
+    private String name = "Square";
 
     public Square() {
+    }
+
+    @Override
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public void setName(String name) {
+        this.name = name;
     }
 
     public Square(String color, boolean filled) {
@@ -38,5 +51,15 @@ public class Square extends Rectangle {
                 this.getSide() +
                 ", which is a subclass of " +
                 super.toString();
+    }
+
+    @Override
+    public void howToColor() {
+        System.out.println("Color all four sides..");
+    }
+
+    @Override
+    public double getArea() {
+        return super.getArea();
     }
 }

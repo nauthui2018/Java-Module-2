@@ -33,4 +33,11 @@ public class Shape {
         return "A shape with color of " + color +
                 " and " + (isFilled() ? "filled" : "not filled");
     }
+    public double getArea(){
+        return 0.0;
+    }
+
+    public String getName(){
+        return "";
+    }
 }
