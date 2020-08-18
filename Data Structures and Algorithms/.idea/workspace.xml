@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2105c5f2-1118-4292-ac74-b5fc984f5bd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures and Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/junit/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/junit-4.12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Edible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/colorable/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/colorable/ColorableSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/colorable/ColorableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/comparable/ComparableCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/comparable/ComparableCircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/comparator/CircleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/comparator/CircleComparatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/geometrics/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/geometrics/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/geometrics/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/geometrics/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/homework/atm/ATM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/homework/atm/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/homework/atm/BankSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/homework/manageCustomer/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/homework/manageCustomer/Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/homework/manageCustomer/Management.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/resizeable/ResizeCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/resizeable/ResizeRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/resizeable/ResizeSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/resizeable/ResizeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/resizeable/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/test/Clean Code and Refactoring/CalculatorTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gGSnwBDgpO5NPl1h65Yp9Jfx2Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Data Structures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator.junit" />
+      <option name="MAIN_CLASS_NAME" value="calculator.junit.SimpleCalculatorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SimpleCalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2105c5f2-1118-4292-ac74-b5fc984f5bd9" name="Default Changelist" comment="" />
+      <created>1597739606643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597739606643</updated>
+      <workItem from="1597739608155" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
