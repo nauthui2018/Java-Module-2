@@ -20,15 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2105c5f2-1118-4292-ac74-b5fc984f5bd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures and Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator/junit/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automated Testing and TDD/Automated Testing and TDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automated Testing and TDD/src/calculator/junit/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automated Testing and TDD/src/calculator/junit/SimpleCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/junit/SimpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/junit/SimpleCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junit-simple-calculator" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Animal.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Apple.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Chicken.class" beforeDir="false" />
@@ -70,6 +74,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -85,25 +90,28 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="calculator.junit" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleCalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Data Structures and Algorithms" />
       <extension name="coverage">
@@ -136,6 +144,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597739606643</updated>
       <workItem from="1597739608155" duration="81000" />
+      <workItem from="1597739712987" duration="692000" />
+      <workItem from="1597740510725" duration="3000" />
     </task>
     <servers />
   </component>
@@ -152,5 +162,40 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1597740404493">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="506" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1597740404493" />
+    <state width="1358" height="411" key="GridCell.Tab.0.bottom" timestamp="1597740406392">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="411" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597740406392" />
+    <state width="1358" height="411" key="GridCell.Tab.0.center" timestamp="1597740406390">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="411" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597740406390" />
+    <state width="1358" height="411" key="GridCell.Tab.0.left" timestamp="1597740406389">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="411" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597740406389" />
+    <state width="1358" height="411" key="GridCell.Tab.0.right" timestamp="1597740406391">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="411" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597740406391" />
+    <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597739920879">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1597739920879" />
+    <state x="499" y="263" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597739859906">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="499" y="263" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597739859906" />
+    <state x="143" y="84" key="new project wizard" timestamp="1597740375500">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="143" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1597740375500" />
   </component>
 </project>
