@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82db5f83-5594-4623-a617-b94cdaeadd1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/absolute/value/AbsoluteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/absolute/value/AbsoluteValueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automated Testing and TDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated Testing and TDD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/junit/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/junit/SimpleCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Data Structures and Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../junit-simple-calculator" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Animal.class" beforeDir="false" />
@@ -60,19 +67,119 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1gGUMbUAuF94nmO7uBcwX3ewB0I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="absolute.value" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AbsoluteValueTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="absolute.value.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="absolute.value" />
+      <option name="MAIN_CLASS_NAME" value="absolute.value.AbsoluteValueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteValueTest.findAbsoluteValue0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="absolute.value.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="absolute.value" />
+      <option name="MAIN_CLASS_NAME" value="absolute.value.AbsoluteValueTest" />
+      <option name="METHOD_NAME" value="findAbsoluteValue0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteValueTest.findAbsoluteValue1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="absolute.value.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="absolute.value" />
+      <option name="MAIN_CLASS_NAME" value="absolute.value.AbsoluteValueTest" />
+      <option name="METHOD_NAME" value="findAbsoluteValue1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AbsoluteValueTest" />
+        <item itemvalue="JUnit.AbsoluteValueTest.findAbsoluteValue1" />
+        <item itemvalue="JUnit.AbsoluteValueTest.findAbsoluteValue0" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -83,8 +190,13 @@
       <option name="presentableId" value="Default" />
       <updated>1597740375831</updated>
       <workItem from="1597740377265" duration="4000" />
+      <workItem from="1597740516637" duration="155000" />
+      <workItem from="1597740743658" duration="1945000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -96,5 +208,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1597742644433">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597742644433" />
+    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1597742644431">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597742644431" />
+    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1597742644430">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597742644430" />
+    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1597742644432">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597742644432" />
+    <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597741330000">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1597741330000" />
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597741321074">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597741321074" />
   </component>
 </project>
