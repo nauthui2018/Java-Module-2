@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82db5f83-5594-4623-a617-b94cdaeadd1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nextday/NextDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nextday/NextDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangle/TypesOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangle/TypesOfTriangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -106,6 +106,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="triangle" />
       <recent name="nextday" />
       <recent name="absolute.value" />
     </key>
@@ -113,7 +114,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NextDayTest">
+  <component name="RunManager" selected="JUnit.TypesOfTriangleTest">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -136,38 +137,6 @@
       <option name="PACKAGE_NAME" value="absolute.value" />
       <option name="MAIN_CLASS_NAME" value="absolute.value.AbsoluteValueTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AbsoluteValueTest.findAbsoluteValue0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Automated Testing and TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="absolute.value.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="absolute.value" />
-      <option name="MAIN_CLASS_NAME" value="absolute.value.AbsoluteValueTest" />
-      <option name="METHOD_NAME" value="findAbsoluteValue0" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AbsoluteValueTest.findAbsoluteValue1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Automated Testing and TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="absolute.value.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="absolute.value" />
-      <option name="MAIN_CLASS_NAME" value="absolute.value.AbsoluteValueTest" />
-      <option name="METHOD_NAME" value="findAbsoluteValue1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -203,13 +172,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TypesOfTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="triangle" />
+      <option name="MAIN_CLASS_NAME" value="triangle.TypesOfTriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypesOfTriangleTest.checkTriangle_3_4_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="triangle" />
+      <option name="MAIN_CLASS_NAME" value="triangle.TypesOfTriangleTest" />
+      <option name="METHOD_NAME" value="checkTriangle_3_4_5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TypesOfTriangleTest" />
+        <item itemvalue="JUnit.TypesOfTriangleTest.checkTriangle_3_4_5" />
         <item itemvalue="JUnit.NextDayTest" />
         <item itemvalue="JUnit.NextDayTest.findNextDay1_1_2018" />
         <item itemvalue="JUnit.AbsoluteValueTest" />
-        <item itemvalue="JUnit.AbsoluteValueTest.findAbsoluteValue1" />
-        <item itemvalue="JUnit.AbsoluteValueTest.findAbsoluteValue0" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +223,7 @@
       <updated>1597740375831</updated>
       <workItem from="1597740377265" duration="4000" />
       <workItem from="1597740516637" duration="155000" />
-      <workItem from="1597740743658" duration="7790000" />
+      <workItem from="1597740743658" duration="10739000" />
     </task>
     <servers />
   </component>
@@ -247,30 +247,30 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="471" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1597745785367" />
-    <state width="1358" height="494" key="GridCell.Tab.0.bottom" timestamp="1597800828907">
+    <state width="1358" height="229" key="GridCell.Tab.0.bottom" timestamp="1597802130951">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="494" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597800828907" />
-    <state width="1358" height="494" key="GridCell.Tab.0.center" timestamp="1597800828906">
+    <state width="1358" height="229" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597802130951" />
+    <state width="1358" height="229" key="GridCell.Tab.0.center" timestamp="1597802130949">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="494" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597800828906" />
-    <state width="1358" height="494" key="GridCell.Tab.0.left" timestamp="1597800828905">
+    <state width="1358" height="229" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597802130949" />
+    <state width="1358" height="229" key="GridCell.Tab.0.left" timestamp="1597802130948">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="494" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597800828905" />
-    <state width="1358" height="494" key="GridCell.Tab.0.right" timestamp="1597800828906">
+    <state width="1358" height="229" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597802130948" />
+    <state width="1358" height="229" key="GridCell.Tab.0.right" timestamp="1597802130950">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="494" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597800828906" />
+    <state width="1358" height="229" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597802130950" />
     <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597741330000">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1597741330000" />
-    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597743125554">
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597801573991">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597743125554" />
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597801573991" />
     <state x="423" y="244" key="refactoring.ChangeSignatureDialog" timestamp="1597745485673">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
