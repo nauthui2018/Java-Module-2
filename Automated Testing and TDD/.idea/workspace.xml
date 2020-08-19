@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82db5f83-5594-4623-a617-b94cdaeadd1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/absolute/value/AbsoluteValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/absolute/value/AbsoluteValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nextday/NextDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nextday/NextDayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated Testing and TDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated Testing and TDD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/junit/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/junit/SimpleCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Data Structures and Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../junit-simple-calculator" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Animal.class" beforeDir="false" />
@@ -105,16 +102,18 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="nextday" />
       <recent name="absolute.value" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AbsoluteValueTest">
+  <component name="RunManager" selected="JUnit.NextDayTest">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -173,8 +172,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NextDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nextday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nextday" />
+      <option name="MAIN_CLASS_NAME" value="nextday.NextDayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextDayTest.findNextDay1_1_2018" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nextday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nextday" />
+      <option name="MAIN_CLASS_NAME" value="nextday.NextDayTest" />
+      <option name="METHOD_NAME" value="findNextDay1_1_2018(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NextDayTest" />
+        <item itemvalue="JUnit.NextDayTest.findNextDay1_1_2018" />
         <item itemvalue="JUnit.AbsoluteValueTest" />
         <item itemvalue="JUnit.AbsoluteValueTest.findAbsoluteValue1" />
         <item itemvalue="JUnit.AbsoluteValueTest.findAbsoluteValue0" />
@@ -191,7 +223,7 @@
       <updated>1597740375831</updated>
       <workItem from="1597740377265" duration="4000" />
       <workItem from="1597740516637" duration="155000" />
-      <workItem from="1597740743658" duration="1945000" />
+      <workItem from="1597740743658" duration="7790000" />
     </task>
     <servers />
   </component>
@@ -211,29 +243,37 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1597742644433">
+    <state x="471" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597745785367">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597742644433" />
-    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1597742644431">
+    <state x="471" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1597745785367" />
+    <state width="1358" height="494" key="GridCell.Tab.0.bottom" timestamp="1597800828907">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597742644431" />
-    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1597742644430">
+    <state width="1358" height="494" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597800828907" />
+    <state width="1358" height="494" key="GridCell.Tab.0.center" timestamp="1597800828906">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597742644430" />
-    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1597742644432">
+    <state width="1358" height="494" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597800828906" />
+    <state width="1358" height="494" key="GridCell.Tab.0.left" timestamp="1597800828905">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597742644432" />
+    <state width="1358" height="494" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597800828905" />
+    <state width="1358" height="494" key="GridCell.Tab.0.right" timestamp="1597800828906">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="494" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597800828906" />
     <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597741330000">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1597741330000" />
-    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597741321074">
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597743125554">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597741321074" />
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597743125554" />
+    <state x="423" y="244" key="refactoring.ChangeSignatureDialog" timestamp="1597745485673">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="423" y="244" key="refactoring.ChangeSignatureDialog/0.23.1440.877@0.23.1440.877" timestamp="1597745485673" />
   </component>
 </project>
