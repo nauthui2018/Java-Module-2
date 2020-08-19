@@ -20,11 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82db5f83-5594-4623-a617-b94cdaeadd1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/triangle/TypesOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangle/TypesOfTriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fizzBuzz/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fizzBuzz/FizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/absolute/value/AbsoluteValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/absoluteValue/AbsoluteValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/absolute/value/AbsoluteValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/absoluteValue/AbsoluteValueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/junit/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/junit/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/SimpleCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Data Structures and Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../junit-simple-calculator" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Animal.class" beforeDir="false" />
@@ -106,6 +110,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="fizzBuzz" />
       <recent name="triangle" />
       <recent name="nextday" />
       <recent name="absolute.value" />
@@ -114,7 +119,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TypesOfTriangleTest">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzz" />
+      <module name="Automated Testing and TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fizzBuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -126,47 +144,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbsoluteValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automated Testing and TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="absolute.value.*" />
+          <option name="PATTERN" value="fizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="absolute.value" />
-      <option name="MAIN_CLASS_NAME" value="absolute.value.AbsoluteValueTest" />
+      <option name="PACKAGE_NAME" value="fizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzzTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.printFizzBuzz_0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automated Testing and TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nextday.*" />
+          <option name="PATTERN" value="fizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="nextday" />
-      <option name="MAIN_CLASS_NAME" value="nextday.NextDayTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="fizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="printFizzBuzz_0" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextDayTest.findNextDay1_1_2018" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.printFizzBuzz_51" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automated Testing and TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nextday.*" />
+          <option name="PATTERN" value="fizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="nextday" />
-      <option name="MAIN_CLASS_NAME" value="nextday.NextDayTest" />
-      <option name="METHOD_NAME" value="findNextDay1_1_2018(int,int,int)" />
+      <option name="PACKAGE_NAME" value="fizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="printFizzBuzz_51" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,29 +206,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypesOfTriangleTest.checkTriangle_3_4_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Automated Testing and TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="triangle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="triangle" />
-      <option name="MAIN_CLASS_NAME" value="triangle.TypesOfTriangleTest" />
-      <option name="METHOD_NAME" value="checkTriangle_3_4_5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest" />
+        <item itemvalue="JUnit.FizzBuzzTest.printFizzBuzz_51" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="JUnit.FizzBuzzTest.printFizzBuzz_0" />
         <item itemvalue="JUnit.TypesOfTriangleTest" />
-        <item itemvalue="JUnit.TypesOfTriangleTest.checkTriangle_3_4_5" />
-        <item itemvalue="JUnit.NextDayTest" />
-        <item itemvalue="JUnit.NextDayTest.findNextDay1_1_2018" />
-        <item itemvalue="JUnit.AbsoluteValueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +226,7 @@
       <updated>1597740375831</updated>
       <workItem from="1597740377265" duration="4000" />
       <workItem from="1597740516637" duration="155000" />
-      <workItem from="1597740743658" duration="10739000" />
+      <workItem from="1597740743658" duration="15479000" />
     </task>
     <servers />
   </component>
@@ -243,34 +246,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="120" y="143" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1597808840153">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="120" y="143" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1597808840153" />
     <state x="471" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597745785367">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="471" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1597745785367" />
-    <state width="1358" height="229" key="GridCell.Tab.0.bottom" timestamp="1597802130951">
+    <state width="1358" height="229" key="GridCell.Tab.0.bottom" timestamp="1597808571787">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="229" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597802130951" />
-    <state width="1358" height="229" key="GridCell.Tab.0.center" timestamp="1597802130949">
+    <state width="1358" height="229" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597808571787" />
+    <state width="1358" height="229" key="GridCell.Tab.0.center" timestamp="1597808571785">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="229" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597802130949" />
-    <state width="1358" height="229" key="GridCell.Tab.0.left" timestamp="1597802130948">
+    <state width="1358" height="229" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597808571785" />
+    <state width="1358" height="229" key="GridCell.Tab.0.left" timestamp="1597808571784">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="229" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597802130948" />
-    <state width="1358" height="229" key="GridCell.Tab.0.right" timestamp="1597802130950">
+    <state width="1358" height="229" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597808571784" />
+    <state width="1358" height="229" key="GridCell.Tab.0.right" timestamp="1597808571786">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="229" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597802130950" />
+    <state width="1358" height="229" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597808571786" />
     <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597741330000">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1597741330000" />
-    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597801573991">
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597804513367">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597801573991" />
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597804513367" />
     <state x="423" y="244" key="refactoring.ChangeSignatureDialog" timestamp="1597745485673">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

@@ -1,4 +1,4 @@
-package absolute.value;
+package absoluteValue;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package calculator.junit;
+package calculator;
 
 public class SimpleCalculator {
 

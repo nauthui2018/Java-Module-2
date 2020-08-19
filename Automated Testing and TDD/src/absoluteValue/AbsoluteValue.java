@@ -1,4 +1,4 @@
-package absolute.value;
+package absoluteValue;
 
 public class AbsoluteValue {
     public static int findAbsoluteValue(int number) {
