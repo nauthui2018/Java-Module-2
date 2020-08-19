@@ -109,7 +109,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleListTest">
+  <component name="RunManager" selected="Application.MyLinkedListTest">
+    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.MyLinkedListTest" />
+      <module name="Data Structures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleList.SimpleListTest" />
       <module name="Data Structures and Algorithms" />
@@ -153,6 +166,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyLinkedListTest" />
         <item itemvalue="Application.SimpleListTest" />
         <item itemvalue="TestNG.SimpleCalculatorTest" />
       </list>
@@ -170,7 +184,7 @@
       <workItem from="1597739712987" duration="692000" />
       <workItem from="1597740510725" duration="3000" />
       <workItem from="1597740680756" duration="59000" />
-      <workItem from="1597809245873" duration="3448000" />
+      <workItem from="1597809245873" duration="4313000" />
     </task>
     <servers />
   </component>
@@ -198,22 +212,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="506" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1597740404493" />
-    <state width="1358" height="411" key="GridCell.Tab.0.bottom" timestamp="1597740406392">
+    <state width="1358" height="411" key="GridCell.Tab.0.bottom" timestamp="1597829298283">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="411" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597740406392" />
-    <state width="1358" height="411" key="GridCell.Tab.0.center" timestamp="1597740406390">
+    <state width="1358" height="411" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597829298283" />
+    <state width="1358" height="411" key="GridCell.Tab.0.center" timestamp="1597829298282">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="411" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597740406390" />
-    <state width="1358" height="411" key="GridCell.Tab.0.left" timestamp="1597740406389">
+    <state width="1358" height="411" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597829298282" />
+    <state width="1358" height="411" key="GridCell.Tab.0.left" timestamp="1597829298281">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="411" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597740406389" />
-    <state width="1358" height="411" key="GridCell.Tab.0.right" timestamp="1597740406391">
+    <state width="1358" height="411" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597829298281" />
+    <state width="1358" height="411" key="GridCell.Tab.0.right" timestamp="1597829298282">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="411" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597740406391" />
+    <state width="1358" height="411" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597829298282" />
     <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597739920879">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
