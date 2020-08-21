@@ -19,10 +19,36 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2105c5f2-1118-4292-ac74-b5fc984f5bd9" name="Default Changelist" comment="">
+    <list default="true" id="82db5f83-5594-4623-a617-b94cdaeadd1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/Automated Testing and TDD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/absoluteValue/AbsoluteValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/absoluteValue/AbsoluteValueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/calculator/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/calculator/SimpleCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/fizzBuzz/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/fizzBuzz/FizzBuzzTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/nextday/NextDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/nextday/NextDayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/triangle/TypesOfTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/out/production/Automated Testing and TDD/triangle/TypesOfTriangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/absoluteValue/AbsoluteValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/absoluteValue/AbsoluteValueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/calculator/SimpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/calculator/SimpleCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/fizzBuzz/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/fizzBuzz/FizzBuzzTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/nextday/NextDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/nextday/NextDayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/triangle/TypesOfTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/src/triangle/TypesOfTriangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures and Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../junit-simple-calculator" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Animal.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Apple.class" beforeDir="false" />
@@ -64,15 +90,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1gGSnwBDgpO5NPl1h65Yp9Jfx2Z" />
+  <component name="ProjectId" id="1gGUMbUAuF94nmO7uBcwX3ewB0I" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -92,6 +118,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -99,22 +126,26 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="calculator.junit" />
+      <recent name="fizzBuzz" />
+      <recent name="triangle" />
+      <recent name="nextday" />
+      <recent name="absolute.value" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyLinkedListTest (1)">
-    <configuration name="MyLinkedListTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implementLinkedList.MyLinkedListTest" />
-      <module name="Data Structures and Algorithms" />
+  <component name="RunManager" selected="JUnit.FizzBuzzTest">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzz" />
+      <module name="Automated Testing and TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="implementLinkedList.*" />
+          <option name="PATTERN" value="fizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,99 +153,90 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.MyLinkedListTest" />
-      <module name="Data Structures and Algorithms" />
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
+          <option name="PATTERN" value="fizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="fizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implementArrayList.MyListTest" />
-      <module name="Data Structures and Algorithms" />
+    <configuration name="FizzBuzzTest.printFizzBuzz_0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="implementArrayList.*" />
+          <option name="PATTERN" value="fizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="fizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="printFizzBuzz_0" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleList.SimpleListTest" />
-      <module name="Data Structures and Algorithms" />
+    <configuration name="FizzBuzzTest.printFizzBuzz_51" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleList.*" />
+          <option name="PATTERN" value="fizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="fizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="printFizzBuzz_51" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleCalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Data Structures and Algorithms" />
+    <configuration name="TypesOfTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automated Testing and TDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calculator.junit.*" />
+          <option name="PATTERN" value="triangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="calculator.junit" />
-      <option name="MAIN_CLASS_NAME" value="calculator.junit.SimpleCalculatorTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="PACKAGE_NAME" value="triangle" />
+      <option name="MAIN_CLASS_NAME" value="triangle.TypesOfTriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyLinkedListTest (1)" />
-        <item itemvalue="Application.MyListTest" />
-        <item itemvalue="Application.MyLinkedListTest" />
-        <item itemvalue="Application.SimpleListTest" />
-        <item itemvalue="TestNG.SimpleCalculatorTest" />
+        <item itemvalue="JUnit.FizzBuzzTest" />
+        <item itemvalue="JUnit.FizzBuzzTest.printFizzBuzz_51" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="JUnit.FizzBuzzTest.printFizzBuzz_0" />
+        <item itemvalue="JUnit.TypesOfTriangleTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2105c5f2-1118-4292-ac74-b5fc984f5bd9" name="Default Changelist" comment="" />
-      <created>1597739606643</created>
+      <changelist id="82db5f83-5594-4623-a617-b94cdaeadd1b" name="Default Changelist" comment="" />
+      <created>1597740375831</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597739606643</updated>
-      <workItem from="1597739608155" duration="81000" />
-      <workItem from="1597739712987" duration="692000" />
-      <workItem from="1597740510725" duration="3000" />
-      <workItem from="1597740680756" duration="59000" />
-      <workItem from="1597809245873" duration="12363000" />
-      <workItem from="1597893987914" duration="25561000" />
+      <updated>1597740375831</updated>
+      <workItem from="1597740377265" duration="4000" />
+      <workItem from="1597740516637" duration="155000" />
+      <workItem from="1597740743658" duration="15873000" />
+      <workItem from="1598001574225" duration="11000" />
     </task>
     <servers />
   </component>
@@ -234,77 +256,41 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1597918018886">
+    <state x="120" y="143" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1597808840153">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1597918018886" />
-    <state x="506" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1597740404493">
+    <state x="120" y="143" width="1200" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1597808840153" />
+    <state x="471" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597745785367">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="506" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1597740404493" />
-    <state width="1358" height="270" key="GridCell.Tab.0.bottom" timestamp="1598001466272">
+    <state x="471" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1597745785367" />
+    <state width="1358" height="229" key="GridCell.Tab.0.bottom" timestamp="1597809234548">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598001466272" />
-    <state width="1358" height="270" key="GridCell.Tab.0.center" timestamp="1598001466271">
+    <state width="1358" height="229" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597809234548" />
+    <state width="1358" height="229" key="GridCell.Tab.0.center" timestamp="1597809234547">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598001466271" />
-    <state width="1358" height="270" key="GridCell.Tab.0.left" timestamp="1598001466271">
+    <state width="1358" height="229" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597809234547" />
+    <state width="1358" height="229" key="GridCell.Tab.0.left" timestamp="1597809234546">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598001466271" />
-    <state width="1358" height="270" key="GridCell.Tab.0.right" timestamp="1598001466272">
+    <state width="1358" height="229" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597809234546" />
+    <state width="1358" height="229" key="GridCell.Tab.0.right" timestamp="1597809234547">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598001466272" />
-    <state width="1358" height="270" key="GridCell.Tab.1.bottom" timestamp="1598001466273">
+    <state width="1358" height="229" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597809234547" />
+    <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597741330000">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598001466273" />
-    <state width="1358" height="270" key="GridCell.Tab.1.center" timestamp="1598001466273">
+    <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1597741330000" />
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597804513367">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1598001466273" />
-    <state width="1358" height="270" key="GridCell.Tab.1.left" timestamp="1598001466272">
+    <state x="499" y="275" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597804513367" />
+    <state x="423" y="244" key="refactoring.ChangeSignatureDialog" timestamp="1597745485673">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1598001466272" />
-    <state width="1358" height="270" key="GridCell.Tab.1.right" timestamp="1598001466273">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1358" height="270" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1598001466273" />
-    <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597739920879">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1597739920879" />
-    <state x="499" y="263" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597739859906">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="499" y="263" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1597739859906" />
-    <state x="143" y="84" key="new project wizard" timestamp="1597740375500">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="143" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1597740375500" />
-    <state x="393" y="127" width="670" height="676" key="search.everywhere.popup" timestamp="1597999361728">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="393" y="127" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1597999361728" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/implementLinkedList/MyLinkedListTest.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/implementLinkedList/MyLinkedListTest.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="423" y="244" key="refactoring.ChangeSignatureDialog/0.23.1440.877@0.23.1440.877" timestamp="1597745485673" />
   </component>
 </project>
