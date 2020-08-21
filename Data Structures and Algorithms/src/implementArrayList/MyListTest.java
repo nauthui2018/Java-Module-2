@@ -13,7 +13,10 @@ public class MyListTest {
         }
         boolean isContain = names.contain("Sam");
         System.out.println(isContain);
-        System.out.println(names.clone());
+        Object[] list = (Object[]) names.clone();
+        for (Object i: list) {
+            System.out.println(i);
+        }
         System.out.println(names.size());
         System.out.println(names.doAdd("Bi"));
         System.out.println(names.indexOf("Sam"));
