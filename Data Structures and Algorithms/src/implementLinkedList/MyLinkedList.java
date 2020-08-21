@@ -50,33 +50,32 @@ public class MyLinkedList<E> {
 
     public void removeNode(int index) {
         Node temp = headNode;
+        Node holder;
         if (index == 0) {
             headNode = headNode.next;
         }
         for (int i = 0; i < index-1 && temp.next != null; i++) {
             temp = temp.next;
         }
-        Node holder = temp.next.next;
+        holder = temp.next.next;
         temp.next = holder;
         numNodes--;
     }
 
-    //tu day chua review code --->>>>>
     public void remove(E data) {
         Node temp = headNode;
-        Node previousNode = null;
+        Node holder;
         if (headNode.getData() == data) {
-            headNode.next = temp;
-            headNode = null;
+            headNode = headNode.next;
         }
-        for (int i = 0; i<this.getSize(); i++) {
-            previousNode = temp;
-            temp = temp.next;
-            if (temp.getData() == data) {
+        for (int i = 1; temp.next != null; i++) {
+            if (temp.next.getData() == data) {
                 break;
             }
+            temp = temp.next;
         }
-        temp.next.next = previousNode;
+        holder = temp.next.next;
+        temp.next = holder;
         numNodes--;
     }
 
@@ -90,26 +89,25 @@ public class MyLinkedList<E> {
     }
 
     public E clone() {
+        MyLinkedList copiedList = new MyLinkedList<E>();
         Node temp = headNode;
-        E data;
-        int index = 0;
-        MyLinkedList<E> copiedList = new MyLinkedList<E>();
-        for (int i=0; temp.next != null; i++) {
-            copiedList.add(index, temp.next.data);
+        copiedList.addFirst(temp.getData());
+        for (int i=1; temp.next != null; i++) {
+            temp = temp.next;
+            copiedList.add(i, temp.getData());
         }
         return (E) copiedList;
     }
 
     public boolean contain(E o) {
         Node temp = headNode;
-        int index = 0;
         boolean isContain = false;
         for (int i=0; temp.next != null; i++) {
-            if (get(index) == o) {
+            temp = temp.next;
+            if (temp.getData() == o) {
                 isContain = true;
                 break;
             }
-            index++;
         }
         return isContain;
     }
@@ -118,36 +116,37 @@ public class MyLinkedList<E> {
         Node temp = headNode;
         int index = 0;
         for (int i=0; temp.next != null; i++) {
-            if (get(index) == o) {
+            if (temp.getData() == o) {
                 break;
             }
+            temp = temp.next;
             index++;
         }
         return index;
     }
 
-    public Node get(int index) {
+    public E get(int index) {
         Node temp = headNode;
         for (int i = 0; i < index; i++) {
             temp = temp.next;
         }
-        return temp;
+        return temp.getData();
     }
 
-    public Node getFirst() {
-        return headNode.next;
+    public E getFirst() {
+        return headNode.getData();
     }
 
-    public Node getLast() {
+    public E getLast() {
         Node temp = headNode;
         for (int i=0; temp.next != null; i++) {
             temp = temp.next;
         }
-        return temp;
+        return temp.getData();
     }
 
     public void clearList() {
-        headNode.next = null;
+        headNode = null;
     }
 
     public void printList() {

@@ -20,17 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2105c5f2-1118-4292-ac74-b5fc984f5bd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/implementLinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementLinkedList/MyLinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java-Module-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Automated Testing and TDD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/implementArrayList/MyListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/implementArrayList/MyListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/linkedList/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/linkedList/MyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/linkedList/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/linkedList/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementArrayList/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementArrayList/MyListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/implementLinkedList/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/implementLinkedList/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/implementLinkedList/MyLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures and Algorithms/implementLinkedList/MyLinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementLinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementLinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementLinkedList/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementLinkedList/MyLinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../junit-simple-calculator" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Animal.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Abstract Class and Interface/animal/edible/Apple.class" beforeDir="false" />
@@ -222,7 +219,7 @@
       <workItem from="1597740510725" duration="3000" />
       <workItem from="1597740680756" duration="59000" />
       <workItem from="1597809245873" duration="12363000" />
-      <workItem from="1597893987914" duration="20498000" />
+      <workItem from="1597893987914" duration="25474000" />
     </task>
     <servers />
   </component>
@@ -250,38 +247,38 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="506" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1597740404493" />
-    <state width="1358" height="366" key="GridCell.Tab.0.bottom" timestamp="1597981978208">
+    <state width="315" height="717" key="GridCell.Tab.0.bottom" timestamp="1598001289099">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="366" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597981978208" />
-    <state width="1358" height="366" key="GridCell.Tab.0.center" timestamp="1597981978207">
+    <state width="315" height="717" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598001289099" />
+    <state width="315" height="717" key="GridCell.Tab.0.center" timestamp="1598001289098">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="366" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597981978207" />
-    <state width="1358" height="366" key="GridCell.Tab.0.left" timestamp="1597981978206">
+    <state width="315" height="717" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598001289098" />
+    <state width="315" height="717" key="GridCell.Tab.0.left" timestamp="1598001289097">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="366" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597981978206" />
-    <state width="1358" height="366" key="GridCell.Tab.0.right" timestamp="1597981978207">
+    <state width="315" height="717" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598001289097" />
+    <state width="315" height="717" key="GridCell.Tab.0.right" timestamp="1598001289098">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="366" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597981978207" />
-    <state width="1358" height="270" key="GridCell.Tab.1.bottom" timestamp="1597978555557">
+    <state width="315" height="717" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598001289098" />
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom" timestamp="1597998194983">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597978555557" />
-    <state width="1358" height="270" key="GridCell.Tab.1.center" timestamp="1597978555556">
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597998194983" />
+    <state width="1358" height="270" key="GridCell.Tab.1.center" timestamp="1597998194981">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1597978555556" />
-    <state width="1358" height="270" key="GridCell.Tab.1.left" timestamp="1597978555555">
+    <state width="1358" height="270" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1597998194981" />
+    <state width="1358" height="270" key="GridCell.Tab.1.left" timestamp="1597998194981">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1597978555555" />
-    <state width="1358" height="270" key="GridCell.Tab.1.right" timestamp="1597978555556">
+    <state width="1358" height="270" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1597998194981" />
+    <state width="1358" height="270" key="GridCell.Tab.1.right" timestamp="1597998194982">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="270" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1597978555556" />
+    <state width="1358" height="270" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1597998194982" />
     <state x="443" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597739920879">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -294,5 +291,25 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="143" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1597740375500" />
+    <state x="393" y="127" width="670" height="676" key="search.everywhere.popup" timestamp="1597999361728">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="393" y="127" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1597999361728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/implementLinkedList/MyLinkedListTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/implementLinkedList/MyLinkedListTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
