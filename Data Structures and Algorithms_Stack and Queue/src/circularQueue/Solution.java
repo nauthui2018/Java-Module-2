@@ -42,7 +42,7 @@ public class Solution {
 
     }
 
-    static void  displayQueue(Queue queue) {
+    static void displayQueue(Queue queue) {
         Node temp = queue.front;
         System.out.printf("Elements in Circular Queue are: ");
         while (temp.link != queue.front) {
