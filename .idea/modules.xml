@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Loop in Java/Loop in Java.iml" filepath="$PROJECT_DIR$/Loop in Java/Loop in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/References/References.iml" filepath="$PROJECT_DIR$/References/References.iml" />
       <module fileurl="file://$PROJECT_DIR$/Searching Algorithms/Searching Algorithms.iml" filepath="$PROJECT_DIR$/Searching Algorithms/Searching Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/SortAlgorithms.iml" filepath="$PROJECT_DIR$/SortAlgorithms/SortAlgorithms.iml" />
     </modules>
   </component>
 </project>
