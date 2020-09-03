@@ -1,0 +1,3 @@
+id,name,producer,price,otherdescription
+001,samsung,samsung,2423,black
+002,Nokia510,Nokia,231,Yellow

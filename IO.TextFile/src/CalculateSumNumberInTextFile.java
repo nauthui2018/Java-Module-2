@@ -10,13 +10,13 @@ public class CalculateSumNumberInTextFile {
             BufferedReader reader = new BufferedReader(fileReader);
             String line = null;
             int sum = 0;
-            while ((line=reader.readLine()) != null) {
+            while ((line = reader.readLine()) != null) {
                 System.out.println(line);
                 sum += Integer.parseInt(line);
             }
             reader.close();
             System.out.println("Sum: " + sum);
-        } catch (Exception e){
+        } catch (Exception e) {
             System.out.println("File is not found or data is not numbers");
         }
     }
