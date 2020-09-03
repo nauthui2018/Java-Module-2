@@ -7,6 +7,6 @@ public class MainUI {
     public static void main(String[] args) {
         CustomerDaoImpl customerDao = new CustomerDaoImpl();
         Customer customer = new Customer();
-        customerDao.save(customer);
+
     }
 }
