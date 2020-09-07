@@ -27,8 +27,10 @@ public class ContactManagement implements  ContactManagementDAO{
         List<String> sortedList = new ArrayList<>(contacts.keySet());
         Collections.sort(sortedList);
         String phoneNumber, group, name, gender, address, dob, email;
-        for (String item: sortedList) {
-            Contact temp = contacts.get(item);
+        int stop = 5;
+        for (int i = stop-5; i<stop; i++) {
+            String key = sortedList.get(i);
+            Contact temp = contacts.get(key);
             phoneNumber = temp.getPhoneNumber();
             group = temp.getGroup();
             name = temp.getFullName();
@@ -36,16 +38,26 @@ public class ContactManagement implements  ContactManagementDAO{
             address = temp.getAddress();
             dob = temp.getDob();
             email = temp.getEmail();
-            System.out.format("| %-29s", name);
-            System.out.format("| %-13s", phoneNumber);
-            System.out.format("| %-13s", group);
-            System.out.format("| %-13s", gender);
-            System.out.format("| %-53s", address);
-            System.out.format("| %-19s", dob);
-            System.out.format("| %-31s|", email);
-            System.out.println();
-            System.out.println(line);
         }
+//        for (String item: sortedList) {
+//            Contact temp = contacts.get(item);
+//            phoneNumber = temp.getPhoneNumber();
+//            group = temp.getGroup();
+//            name = temp.getFullName();
+//            gender = temp.getGender();
+//            address = temp.getAddress();
+//            dob = temp.getDob();
+//            email = temp.getEmail();
+//            System.out.format("| %-29s", name);
+//            System.out.format("| %-13s", phoneNumber);
+//            System.out.format("| %-13s", group);
+//            System.out.format("| %-13s", gender);
+//            System.out.format("| %-53s", address);
+//            System.out.format("| %-19s", dob);
+//            System.out.format("| %-31s|", email);
+//            System.out.println();
+//            System.out.println(line);
+//        }
     }
 
     @Override

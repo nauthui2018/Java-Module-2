@@ -9,21 +9,21 @@ public class Regex {
     public static boolean validateName(String name) {
         String regx = "^[\\p{L} .'-]+$";
         Pattern pattern = Pattern.compile(regx,Pattern.CASE_INSENSITIVE);
-        Matcher matcher = pattern.matcher(name);
+        Matcher matcher = pattern.matcher(name.trim());
         return matcher.find();
     }
 
     public static boolean validateCode(String code) {
         String regx = "^[C]+[0-9]{3}$";
         Pattern pattern = Pattern.compile(regx);
-        Matcher matcher = pattern.matcher(code);
+        Matcher matcher = pattern.matcher(code.trim());
         return matcher.find();
     }
 
     public static boolean validateClass(String className) {
         String regx = "^[C]+[0-9]{2}$";
         Pattern pattern = Pattern.compile(regx);
-        Matcher matcher = pattern.matcher(className);
+        Matcher matcher = pattern.matcher(className.trim());
         return matcher.find();
     }
 
@@ -36,7 +36,7 @@ public class Regex {
     }
 
     public static boolean validateGender(String gender) {
-        if (gender.equals("Male") || gender.equals("Female")) {
+        if (gender.trim().equals("Male") || gender.trim().equals("Female")) {
             return true;
         } else {
             return false;

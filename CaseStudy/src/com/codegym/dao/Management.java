@@ -28,21 +28,26 @@ public class Management implements ManagementDAO {
                     "Required: 'C***' - '*' is number from 0-9");
             code = scanner.nextLine();
         }
-        newStudent.setStudentCode(code);
+        while (studentList.containsKey(code)) {
+            System.out.println("Student code is existed. Please input another code!\n"+
+                    "Required: 'C***' - '*' is number from 0-9");
+            code = scanner.nextLine();
+        }
+        newStudent.setStudentCode(code.trim());
         System.out.println("Enter full name:");
         String name = scanner.nextLine();
         while (!validate.validateName(name)) {
             System.out.println("Invalid name. Please input again!");
             name = scanner.nextLine();
         }
-        newStudent.setName(name);
+        newStudent.setName(name.trim());
         System.out.println("Enter gender: Male or Female");
         String gender = scanner.nextLine();
         while (!validate.validateGender(gender)) {
             System.out.println("Invalid gender. Please input 'Male' or 'Female'");
             gender = scanner.nextLine();
         }
-        newStudent.setGender(gender);
+        newStudent.setGender(gender.trim());
         System.out.println("Enter class name\n" +
                 "Required: 'C**' - '*' is number from 0-9");
         String className = scanner.nextLine();
@@ -51,7 +56,7 @@ public class Management implements ManagementDAO {
                     "Required: 'C**' - '*' is number from 0-9");
             className = scanner.nextLine();
         }
-        newStudent.setClassName(className);
+        newStudent.setClassName(className.trim());
         System.out.println("DOB - Enter year:");
         int year = Integer.parseInt(scanner.nextLine());
         while (!validate.validateYear(year)) {
@@ -100,7 +105,7 @@ public class Management implements ManagementDAO {
                         System.out.println("Invalid name. Please input again!");
                         name = scanner.nextLine();
                     }
-                    student1.setName(name);
+                    student1.setName(name.trim());
                     break;
                 case "N":
                     break;
@@ -118,7 +123,7 @@ public class Management implements ManagementDAO {
                         System.out.println("Invalid gender. Please input 'Male' or 'Female'");
                         gender = scanner.nextLine();
                     }
-                    student1.setGender(gender);
+                    student1.setGender(gender.trim());
                     break;
                 case "N":
                     break;
@@ -138,7 +143,7 @@ public class Management implements ManagementDAO {
                                 "Required: 'C**' - '*' is number from 0-9");
                         className = scanner.nextLine();
                     }
-                    student1.setClassName(className);
+                    student1.setClassName(className.trim());
                     break;
                 case "N":
                     break;
